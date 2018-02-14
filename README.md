@@ -16,3 +16,8 @@ This chapter will be about getting started with Git. We will begin by explaining
 
 Author: *Omar Elmoghazy* 37-4185
 About: 20 years old enigneer
+
+------------------------------------------------------
+
+Author : "Marwan Sami Youssef" 37-1445
+About : a 20 years old Programmer
