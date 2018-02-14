@@ -26,3 +26,8 @@ About : a 20 years old Programmer
 
 Author : Amr Saadi 37-3444
 About : a 20 years old MET student
+
+------------------------------------------------------
+
+Author: *Bishoy Farid* 37-8584
+About: 20 years old Programmer
